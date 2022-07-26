@@ -2,7 +2,7 @@ CHANGELOG [HRF1+]
 1. Prepare pcb for manufacturing, ignore non billable components
 2. Added original LCSC MPNs
 3. Replaced non critical passive component (cost saving == ?$) [TODO]
-4. Replace L3 to GND and L4 to Signal / PWR (1.8V + 3V) [TODO]
+4. Replace L3 to GND and L4 to Signal / PWR (1.8V + 3V)
 5. Changed stackup to 3313 (re-route 50 Ohm traces) [TODO]
 6. Rounded high speed traces [TODO]
 7. Align dc filter capacitors with trace direction. [TODO]
